@@ -56,7 +56,7 @@ This repository showcases my journey through the **DataCamp Python Data Associat
 ## 🏅 Certificate
 
 Here’s my official DataCamp Certificate:  
-![Certificate](images/certificate.png)  
+![Certificate](images/certificate.jpg)  
 🔗 [View Credential on DataCamp](https://www.datacamp.com/statement-of-accomplishment)
 
 ---
